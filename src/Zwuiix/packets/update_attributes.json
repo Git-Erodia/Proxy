@@ -1,0 +1,14 @@
+{
+  "runtime_entity_id": "854",
+  "attributes": [
+    {
+      "min": 0,
+      "max": 20,
+      "current": 19,
+      "default": 20,
+      "name": "minecraft:player.hunger",
+      "modifiers": []
+    }
+  ],
+  "tick": "0"
+}

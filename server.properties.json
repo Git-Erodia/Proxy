@@ -1,0 +1,9 @@
+{
+  "host": "0.0.0.0",
+  "port": 19132,
+  "version": "1.19.70",
+  "motd": {
+    "motd": "Érodia Proxy 1.0.0",
+    "levelName": "Érodia Proxy 1.0.0"
+  }
+}

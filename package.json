@@ -1,0 +1,11 @@
+{
+  "name": "Proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "bedrock-protocol": "^3.26.0",
+    "bedrock-provider": "^3.0.0",
+    "colors": "^1.4.0",
+    "leveldb-zlib": "^1.2.0",
+    "libquery": "^1.0.2"
+  }
+}

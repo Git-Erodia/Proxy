@@ -1,0 +1,166 @@
+{
+  "rules": [
+    {
+      "name": "commandBlocksEnabled",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "commandBlockOutput",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doDaylightCycle",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doEntityDrops",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doFireTick",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doInsomnia",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doImmediateRespawn",
+      "editable": false,
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "doMobLoot",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doTileDrops",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doWeatherCycle",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "drowningDamage",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "fallDamage",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "fireDamage",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "freezeDamage",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "functionCommandLimit",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "keepInventory",
+      "editable": false,
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "maxCommandChainLength",
+      "editable": false,
+      "type": "int",
+      "value": 32768
+    },
+    {
+      "name": "mobGriefing",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "naturalRegeneration",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "pvp",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "randomTickSpeed",
+      "editable": false,
+      "type": "int",
+      "value": -1
+    },
+    {
+      "name": "sendCommandFeedback",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "showCoordinates",
+      "editable": false,
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "showDeathMessage",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "spawnRadius",
+      "editable": false,
+      "type": "int",
+      "value": -3
+    },
+    {
+      "name": "tntExplodes",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "showTags",
+      "editable": false,
+      "type": "bool",
+      "value": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "nbt": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "idlist": {
+        "type": "list",
+        "value": {
+          "type": "compound",
+          "value": []
+        }
+      }
+    }
+  }
+}
